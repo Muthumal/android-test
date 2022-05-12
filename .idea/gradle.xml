@@ -11,7 +11,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/custom-toast" />
+            <option value="$PROJECT_DIR$/customtoast" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
